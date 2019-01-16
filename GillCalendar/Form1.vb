@@ -1,4 +1,5 @@
 ﻿Public Class Form1
+    'TODO: Change and sync music to Bazzi - Smile
     Dim sngCount As Single
     Dim strDate As String
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
