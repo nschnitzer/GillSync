@@ -9,3 +9,4 @@ C:\Users\120nschnitzer\Documents\Visual Studio 2015\Projects\GillCalendar\GillCa
 C:\Users\120nschnitzer\Documents\Visual Studio 2015\Projects\GillCalendar\GillCalendar\obj\Debug\GillCalendar.exe
 C:\Users\120nschnitzer\Documents\Visual Studio 2015\Projects\GillCalendar\GillCalendar\obj\Debug\GillCalendar.xml
 C:\Users\120nschnitzer\Documents\Visual Studio 2015\Projects\GillCalendar\GillCalendar\obj\Debug\GillCalendar.pdb
+C:\Users\120nschnitzer\Documents\Visual Studio 2015\Projects\GillCalendar\GillCalendar\obj\Debug\GillCalendar.frmStartUp.resources

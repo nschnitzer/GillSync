@@ -7,6 +7,8 @@
         strDate = dtpDate.Value.Second
         Me.BackgroundImage = GillCalendar.My.Resources.Gill1
         My.Computer.Audio.Play(My.Resources.kalinkawav, AudioPlayMode.BackgroundLoop)
+        StartPosition = FormStartPosition.Manual
+        Location = New Point(Rnd() * 2000, Rnd() * 600)
 
     End Sub
 
